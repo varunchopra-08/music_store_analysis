@@ -37,7 +37,7 @@ The following is the schema for the Music Store Database:
    git clone https://github.com/yourusername/music-store-database.git
 
 2. Navigate to the project directory:
-```bash 
+   ```bash
       cd music-store-database
 
 3. Set up the database using the provided SQL scripts located in the sql directory.
@@ -47,3 +47,7 @@ Usage
 Load the provided dataset into your database.
 Use the included SQL queries in the queries directory to interact with the database.
 Modify existing queries or write new ones to analyze the dataset according to your needs.
+
+
+
+
