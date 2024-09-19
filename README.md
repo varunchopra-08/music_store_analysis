@@ -20,9 +20,6 @@ The following is the schema for the Music Store Database:
   ![musicDatabaseSchema](https://github.com/user-attachments/assets/3c3c9a94-7344-4e48-b71b-03150c271f5d)
 
 
-
-
-
 ## Getting Started  
 
 ### Prerequisites  
@@ -47,6 +44,9 @@ Usage
 Load the provided dataset into your database.
 Use the included SQL queries in the queries directory to interact with the database.
 Modify existing queries or write new ones to analyze the dataset according to your needs.
+
+[Check out my blog on Hashnode for more insights and details.]([YourHashnodeLink](https://varunchopra08.hashnode.dev/data-analysis-using-sql))
+
 
 
 
