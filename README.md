@@ -44,6 +44,8 @@ Usage
 Load the provided dataset into your database.
 Use the included SQL queries in the queries directory to interact with the database.
 Modify existing queries or write new ones to analyze the dataset according to your needs.
+[Check out my blog on Hashnode for more insights and details.]([YourHashnodeLink](https://varunchopra08.hashnode.dev/data-analysis-using-sql))
+
 
 [Check out my blog on Hashnode for more insights and details.]([YourHashnodeLink](https://varunchopra08.hashnode.dev/data-analysis-using-sql))
 
